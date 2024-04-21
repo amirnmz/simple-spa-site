@@ -1,0 +1,17 @@
+.blogwrapper{
+    text-align: center;
+}
+.linkbtn{
+    text-decoration: none;
+    margin: 0 10px;
+    background-color: rgb(238, 235, 235);
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: black;
+    font-weight: bold;
+    transition: all 0.2s ease-in-out;
+
+}
+.linkbtn:hover{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
